@@ -25,11 +25,7 @@ body{
 
 .div2{
 	align:center;
-	position:fixed;
-	top: 0px; /* your required value */
-	left: 50px;
-	width: 150px;
-	height: 100%;
+	
 
 }
 
