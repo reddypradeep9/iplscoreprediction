@@ -2,6 +2,7 @@
 from flask import Flask, render_template, request
 import pickle
 import numpy as np
+pip install scikit-learn --upgrade
 import sklearn.linear_model.Ridge
 import sklearn.linear_model
 
