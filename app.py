@@ -2,7 +2,7 @@
 from flask import Flask, render_template, request
 import pickle
 import numpy as np
-from sklearn.linear_model import Ridge
+#from sklearn.linear_model import Ridge
 
 # Load the Random Forest CLassifier model
 filename = 'ridge.pkl'
