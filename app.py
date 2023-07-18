@@ -3,6 +3,7 @@ from flask import Flask, render_template, request
 import pickle
 import numpy as np
 import sklearn.liner_model.ridge
+import sklearn.liner_model
 
 # Load the Random Forest CLassifier model
 filename = 'ridge.pkl'
